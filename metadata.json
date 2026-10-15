@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Lawyer",
+  "description": "AI-powered Indian legal information assistant. Understand the law, know your rights, explore the Constitution, draft incident reports, and access source-grounded legal provisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
