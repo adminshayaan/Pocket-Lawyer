@@ -4,6 +4,8 @@ About
 
 What if knowing your legal rights was just one question away?
 
+Prototype link- https://pocket-lawyer-113776330877.asia-southeast1.run.app/ 
+
 Many people face situations where they don't know which laws protect them, how to report a crime, or what steps they can legally take. Our AI-powered chatbot aims to bridge this gap by making legal knowledge easier to access and understand.
 
 Built around the Constitution of India and other relevant Indian laws, the chatbot helps citizens understand their rights, learn legal procedures, and explore possible next steps when facing difficult situations. Our goal is to make legal awareness simpler, more accessible, and available to everyone.
